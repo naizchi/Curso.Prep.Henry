@@ -1,0 +1,20 @@
+1. Variables:
+
+Las variables son información que definimos con un nombre. Gracias a esto, podemos recurrir en cualquier momento a esta información invocandola con el nombre que definimos.
+
+2. Strings:
+
+Los strings son un tipo de dato que se usa para el texto. No son números, ni booleanos.
+
+3. Funciones:
+
+Una función es una serie de instrucciones que se ejecuta (se pone en acción), una vez invocadas. Al realizar estas instrucciones la función nos devuelve la información que buscamos.
+Podemos inyectar información a través de argumentos que funcionan de forma similar a las variables, a diferencia de que sólo son utilizables dentro de la función misma.
+
+4. Declaraciones "IF"
+
+La declaración IF, es una función que verifica si algo es correcto o no, según el resultado de esta verificación ejecuta una función.
+
+5. Valores Booleanos:
+
+Es un tipo de dato que sólo puede contener 2 valores posibles. Ej. Verdadero, Falso | 0 y 1 | Encendido, Apagado.
